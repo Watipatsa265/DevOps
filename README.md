@@ -1,2 +1,2 @@
 # DevOps
-on DevOps projects: CI/CD pipelines, Docker, Terraform, Ansible and cloud security practice labs
+DevOps projects: CI/CD pipelines, Docker, Terraform, Ansible and cloud security practice labs
